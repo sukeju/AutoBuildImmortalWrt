@@ -26,7 +26,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-openclash"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-homeproxy-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-filebrowser-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-ttyd-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -openssh-sftp-server"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-dufs-zh-cn"
 # VPN
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-tailscale luci-i18n-tailscale-zh-cn"
